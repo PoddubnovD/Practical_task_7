@@ -1,0 +1,15 @@
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\bin\Debug\net6.0\task_52.exe
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\bin\Debug\net6.0\task_52.deps.json
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\bin\Debug\net6.0\task_52.runtimeconfig.json
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\bin\Debug\net6.0\task_52.dll
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\bin\Debug\net6.0\task_52.pdb
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\obj\Debug\net6.0\task_52.csproj.AssemblyReference.cache
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\obj\Debug\net6.0\task_52.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\obj\Debug\net6.0\task_52.AssemblyInfoInputs.cache
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\obj\Debug\net6.0\task_52.AssemblyInfo.cs
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\obj\Debug\net6.0\task_52.csproj.CoreCompileInputs.cache
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\obj\Debug\net6.0\task_52.dll
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\obj\Debug\net6.0\refint\task_52.dll
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\obj\Debug\net6.0\task_52.pdb
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\obj\Debug\net6.0\task_52.genruntimeconfig.cache
+E:\GeekBrains\git\DZ_7\Practical_task\task_52\obj\Debug\net6.0\ref\task_52.dll
